@@ -38,44 +38,41 @@
 <td width="48%" valign="top">
 
 ```
-                                                       
-                                                       
-                                                       
-                         `^^`                          
-                    'l-\nzYXcj(~^                      
-                  l|XOOQCCQCUC0OJt_`                   
-               .~xYc\?~>i>~~~<<_}fYc{,                 
-              ;rc(?~~+?[[[}{}]_>lIi]jc?.               
-             lCJ(((\frxrjjft/\|}_~~<i]J\'              
-            ;QQt\txcXXcuxrrf\(|(1}]?_<[X1.             
-            1Lr/tfxccvnrjrrt|)11}-+_?-+1j,             
-            \u/t/rzCLCXurrjt\jxxrt(}]-?}\;             
-            }x)/uQmOO0QCzvnjfvXYJYnt|}_]\:             
-            >u})cQQLJzYLLUv\/xYQLzjtt\~+\^             
-            ^r[|LqZUdUzZpCr})xOZZdcYLu[+).             
-          `+_/1fxxYJLLJOCu\]]|rXYz\(}}1-}<i.           
-          lMwj}/xuvccccvj\{+_}}]1((1++?+1Yo<           
-          .Cwf}tucnxrucrjt)?-]{[[{/|})1+\cC~           
-           fpr)fuYYcnuY0p0zuCX|1)(\\//)-(Uz!           
-           +zc|rUQQUvczCOmLYj)[?[|frrt)[t/{`           
-            I?1uU0QJLQLQCUXcrjtt\\ruxt|?<!.            
-              lnYCLOdbZLCzXYrfvJYxjrxj(:               
-               _zJCZm0CYzxnr||txvvrjxf>                
-                <zULOQ0OO0QJJUcnuurxx~                 
-                'cLJXzUCLJXvrt/tfnvvji                 
-                izwpw00mmOOOLUccUJYcr1"                
-             ^i~XCOpdqZqbhkbpOJYXzcvxv(t]:.            
-         ^i[rQZuXdOZwwOOqdqm0Uccccuuzu\jo0rt[~I`       
-     ^>1nCmdkoqXXQabmmmmqpwZ0CXzzzYznjt/QwYmdLUn(>^    
- .I]jUmpddddd#dJJC0kobqmmmOQLJUCQQCcxxxjOLJCwdZOmOX)!^.
-)vQmmZqdqZwZdhaZO00ZqdbbdqwZZ00LUYYzuxxvOQCQO0Qmdw0LUnt
-OZOZmmqqwmZwwphbZZmwwZZOO0mdbZcnuvcuunnYLJCLLYJObdqJYXz
-Q0Q0OwmZmmmZwpdhwOZZmqZZOCZqk#bUnxxrxxzCLUJLUXU0bdOYUzn
-0QLLQOOOZwwZmwqhpQQLQL0dkCQ0wdo*mcrjrxULQQCLCJLOkmOZQCv
-0ZwqZL0OOZmmqqwkhCUU0qwh#wqwwqddhhqQuvJYOOQLCLOpqLOkdd0
-QQOqpZ0OZ00ZqwmdkOOmp#a0dmmOwmqwOLqakJYvLOQLLLqk0Qwddkb
-OOmZddZ0OZwZmZwqwqoqL0kkqJUYUJLLULmZddJvXLLZOOkpC0bdkak
-OO0OdhmL0QOOZmOOO0dkLLCqaXYUXU0UCOOLmkmucLYCOpkZULbhkab
+                                                  
+                                                  
+                                                  
+                      .:::.                       
+                  :=*#######*-.                   
+               .=*#*++++++++****-                 
+              =*+=-:::-----:::-=**-               
+            .**====++++++++==-:::-*+              
+           .##+++*******+++++===---*+             
+           +#+++******+*+++===---=-=*:            
+           +*+++**#***+++++++++==--=+-            
+           ++++*######***+******+=--+-            
+           -+=+####**##*+++*##*+++=:+:            
+           .+=*##*##*##*+=+####***+-=.            
+         .+++=+**#####*+=-=+***+=-=-===.          
+         .##+=+*******++=--=-==+=-=-=*#=          
+          *#+++*********++++===++++==**-          
+          +#++**#****###***+==+++++==**.          
+          .=++*###***###**+===+**++===:           
+             =*########*******++**+=              
+             .*######****+=+***++*+.              
+              .+#########********+.               
+               =##***##***++++***+                
+               +###########******+-               
+            :-=#############*******++:            
+        :-+*##*############*******++##**+=:.      
+    .=+*######**###########****#**++*#*####*+-.   
+ :+*###########################******#*#######*+-:
+*##########################*********############**
+############################********#**##*#####***
+#############################*+++**######*######**
+#################*##############****##############
+##################################***#############
+########################*####*#####**#############
+#######################****########**#*#####*#####
 ```
 
 </td>
