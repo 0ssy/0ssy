@@ -9,33 +9,43 @@
  ╚════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝     ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 ```
 
+<a href="https://github.com/0ssy?tab=repositories">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=Software+Engineer+%C2%B7+AI+Systems+%C2%B7+Builder;I+don't+just+use+systems.+I+build+them.;Nairobi%2C+Kenya+%7C+BBIT+%40+Strathmore" alt="Typing SVG" />
+</a>
+
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/0ssy?style=for-the-badge&color=0D1117&labelColor=0D1117)](https://github.com/0ssy?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=0ssy&style=for-the-badge&color=0D1117&labelColor=0D1117)](https://github.com/0ssy)
+[![Location](https://img.shields.io/badge/Nairobi-Kenya-0D1117?style=for-the-badge&labelColor=0D1117)](https://github.com/0ssy)
+
 </div>
+
+<br>
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="55%" valign="top">
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                        ║
-║   SOFTWARE ENGINEER · AI SYSTEMS · BUILDER            ║
-║                                                        ║
-╠══════════════════════════════════════════════════════╣
-║                                                        ║
-║   > location    : Nairobi, Kenya                      ║
-║   > education   : BBIT @ Strathmore University        ║
-║   > focus       : AI / ML / Systems / Infrastructure  ║
-║   > philosophy  : learn -> build -> break ->           ║
-║                    understand -> rebuild               ║
-║                                                        ║
-║   [ AI ] [ SYSTEMS ] [ SOFTWARE ] [ RESEARCH ]         ║
-║   [ BUILDING ]                                        ║
-║                                                        ║
-╚══════════════════════════════════════════════════════╝
-```
+## Joseph Odari
+
+**Software Engineer · AI Systems · Independent Builder**
+
+I'm a Kenyan software engineer and BBIT student at Strathmore University,
+working across AI systems, runtimes, infrastructure, and autonomous
+platforms — solo, without a team, without outside funding.
+
+Most people ask *"how do I use this?"* I usually end up asking
+**"what would it take to build this myself?"** — that question is the
+reason every project below exists.
+
+**`Location`** Nairobi, Kenya
+**`Education`** BBIT · Strathmore University
+**`Focus`** AI / ML · Distributed Systems · Infrastructure
+**`Approach`** learn → build → break → understand → rebuild → ship
 
 </td>
-<td width="48%" valign="top">
+<td width="45%" valign="top" align="center">
 
 ```
                                                   
@@ -81,120 +91,116 @@
 
 <br>
 
+## What I've Built
+
+Four independent, production-grade systems — each solving a different hard problem, each built end-to-end alone.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔺 TRS — Triadic Runtime Specification
+A formal coordination and provenance runtime, built from a verified
+specification with full conformance tests, attack suites, and resolved
+security audits. Reference implementation complete.
+
+`Runtime` `Distributed Systems` `Verification`
+
+</td>
+<td width="50%" valign="top">
+
+###  TerraNode
+Offline-first, voice-native platform for community-level resource
+governance — built on top of TRS as its first production consumer.
+
+`Offline-First` `Voice Interface` `Governance`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+###  MECOS
+Autonomous AI trading and agent system with a self-contained economic
+stabilization engine modeled on macroeconomic indicators.
+
+`AI Agents` `Trading Infra` `Economic Modeling`
+
+</td>
+<td width="50%" valign="top">
+
+###  Prometheus
+An engineering intelligence platform exploring what it takes to build
+AI systems that reason about their own architecture.
+
+`AI/ML` `Systems Design` `Self-Analysis`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**[→ See all repositories](https://github.com/0ssy?tab=repositories)**
+
+</div>
+
+<br>
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,rust,cpp,c,go,zig,typescript,javascript,html,css,java,kotlin,swift,cs,linux,bash,cmake,powershell,pytorch,cuda,postgres,redis,docker&theme=dark" />
+
+</div>
+
+<sub align="center">
+
+Stack varies by project — **Prometheus**: Python, Rust, TypeScript, Go, C, Zig, CUDA and more · **TRS**: Python, Rust, Go, C++, Java, Kotlin, Swift, TypeScript, C# and others · **MECOS**: heavily Python-based.
+
+</sub>
+
+<br>
+
+## Philosophy
+
+<div align="center">
+
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  $ whoami                                                          ║
-╚══════════════════════════════════════════════════════════════════╝
+  learn  →  build  →  break  →  understand  →  rebuild  →  ship
 ```
 
-I'm Joseph Odari — a Kenyan software engineer and BBIT student interested in
-AI, systems engineering, machine learning, infrastructure, runtimes, and
-developer technologies.
-
-I like understanding how things work underneath the abstractions.
-
-Instead of only asking *"How do I use this?"*, I usually end up asking:
-
-> **"What would it take to build this myself?"**
-
-That question has led me into AI systems, engineering platforms, runtimes,
-autonomous systems, trading infrastructure, and experimental developer tools.
-
----
-
-### `> currently_building`
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  PROMETHEUS    Engineering Intelligence Platform                   ║
-║  MECOS         Experimental AI / cognitive system                  ║
-║  TRS           Runtime / systems infrastructure                    ║
-║  IGGY          Algorithmic trading systems                         ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-| Project | Description |
-|---|---|
-| **Prometheus** | Engineering intelligence platform |
-| **MECOS** | Experimental AI / cognitive system |
-| **TRS** | Runtime & systems infrastructure |
-| **IGGY** | Algorithmic trading systems |
-| — | AI / ML infrastructure |
-| — | Experimental developer systems |
-
-```
-$ echo $PHILOSOPHY
-"Don't just use the system. Understand it. Build it."
-
-$ ./build.sh
-████████████████████████████████████████████████████ 100%
-```
-
----
-
-### `> philosophy`
-
-```
-learn → build → break → understand → rebuild → ship
-```
+**"Don't just use the system. Understand it. Build it."**
 
 I don't want to just collect technologies.
 I want to understand systems deeply enough to create new ones.
 
----
+</div>
 
-### `> stack`
+<br>
 
-**AI / ML**
+## GitHub Activity
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+<div align="center">
 
-**Systems**
+<img src="https://github-readme-stats.vercel.app/api?username=0ssy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&icon_color=6B7280" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0ssy&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=6B7280&fire=6B7280" height="165" />
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
+</div>
 
-**Web**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-**Infrastructure**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
-**GPU**
-
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-<sub>Repos span a broader stack per-project — Prometheus: Python, Rust, TypeScript, Go, C, Zig, CUDA and more. TRS Runtime: Python, Rust, Go, C++, Java, Kotlin, Swift, TypeScript, C# and others. MECOS: heavily Python-based.</sub>
+<br>
 
 ---
 
 <div align="center">
 
-**LOCATION** Nairobi, Kenya &nbsp;·&nbsp; **UNIVERSITY** Strathmore University &nbsp;·&nbsp; **INTERESTS** AI · ML · Systems · Cybersecurity · Infrastructure
+### Let's talk
 
-[![GitHub followers](https://img.shields.io/github/followers/0ssy?style=flat-square&color=blue)](https://github.com/0ssy?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=0ssy&style=flat-square&color=blue)](https://github.com/0ssy)
+I'm always interested in conversations about systems design, runtime
+architecture, and infrastructure problems most people avoid.
 
-**[📂 All Repositories](https://github.com/0ssy?tab=repositories)** · **[👤 Profile](https://github.com/0ssy)**
+[![GitHub](https://img.shields.io/badge/GitHub-0ssy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0ssy)
+[![Repositories](https://img.shields.io/badge/Repositories-View_All-6B7280?style=for-the-badge&logo=git&logoColor=white)](https://github.com/0ssy?tab=repositories)
 
 </div>
