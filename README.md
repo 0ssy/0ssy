@@ -109,7 +109,7 @@ security audits. Reference implementation complete.
 </td>
 <td width="50%" valign="top">
 
-###  TerraNode
+### 🌍 TerraNode
 Offline-first, voice-native platform for community-level resource
 governance — built on top of TRS as its first production consumer.
 
@@ -120,7 +120,7 @@ governance — built on top of TRS as its first production consumer.
 <tr>
 <td width="50%" valign="top">
 
-###  MECOS
+### 🧠 MECOS
 Autonomous AI trading and agent system with a self-contained economic
 stabilization engine modeled on macroeconomic indicators.
 
@@ -129,7 +129,7 @@ stabilization engine modeled on macroeconomic indicators.
 </td>
 <td width="50%" valign="top">
 
-###  Prometheus
+### 🔥 Prometheus
 An engineering intelligence platform exploring what it takes to build
 AI systems that reason about their own architecture.
 
@@ -151,7 +151,11 @@ AI systems that reason about their own architecture.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,rust,cpp,c,go,zig,typescript,javascript,html,css,java,kotlin,swift,cs,linux,bash,cmake,powershell,pytorch,cuda,postgres,redis,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,rust,cpp,c,go,zig,typescript,javascript,html,css,java,kotlin,swift,cs,linux,bash,cmake,powershell,pytorch,postgres,redis,docker&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 </div>
 
@@ -184,8 +188,8 @@ I want to understand systems deeply enough to create new ones.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0ssy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&icon_color=6B7280" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0ssy&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=6B7280&fire=6B7280" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=0ssy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&icon_color=6B7280" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?user=0ssy&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=6B7280&fire=6B7280" height="165" />
 
 </div>
 
