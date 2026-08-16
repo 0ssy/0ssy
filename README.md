@@ -189,7 +189,7 @@ I want to understand systems deeply enough to create new ones.
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=0ssy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6B7280&icon_color=6B7280" height="165" />
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?user=0ssy&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=6B7280&fire=6B7280" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=0ssy&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=6B7280&fire=6B7280" height="165" />
 
 </div>
 
