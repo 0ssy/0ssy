@@ -33,10 +33,10 @@
 
 I'm a Kenyan software engineer and BBIT student at Strathmore University,
 working across AI systems, runtimes, infrastructure, and autonomous
-platforms — solo, without a team, without outside funding.
+platforms  solo, without a team, without outside funding.
 
 Most people ask *"how do I use this?"* I usually end up asking
-**"what would it take to build this myself?"** — that question is the
+**"what would it take to build this myself?"**  that question is the
 reason every project below exists.
 
 **`Location`** Nairobi, Kenya
@@ -109,9 +109,9 @@ security audits. Reference implementation complete.
 </td>
 <td width="50%" valign="top">
 
-### 🌍 TerraNode
+###  TerraNode
 Offline-first, voice-native platform for community-level resource
-governance — built on top of TRS as its first production consumer.
+governance  built on top of TRS as its first production consumer.
 
 `Offline-First` `Voice Interface` `Governance`
 
@@ -120,7 +120,7 @@ governance — built on top of TRS as its first production consumer.
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 MECOS
+###  MECOS
 Autonomous AI trading and agent system with a self-contained economic
 stabilization engine modeled on macroeconomic indicators.
 
@@ -129,7 +129,7 @@ stabilization engine modeled on macroeconomic indicators.
 </td>
 <td width="50%" valign="top">
 
-### 🔥 Prometheus
+###  Prometheus
 An engineering intelligence platform exploring what it takes to build
 AI systems that reason about their own architecture.
 
@@ -161,7 +161,7 @@ AI systems that reason about their own architecture.
 
 <sub align="center">
 
-Stack varies by project — **Prometheus**: Python, Rust, TypeScript, Go, C, Zig, CUDA and more · **TRS**: Python, Rust, Go, C++, Java, Kotlin, Swift, TypeScript, C# and others · **MECOS**: heavily Python-based.
+Stack varies by project  **Prometheus**: Python, Rust, TypeScript, Go, C, Zig, CUDA and more · **TRS**: Python, Rust, Go, C++, Java, Kotlin, Swift, TypeScript, C# and others · **MECOS**: heavily Python-based.
 
 </sub>
 
