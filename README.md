@@ -209,3 +209,7 @@ architecture, and infrastructure problems most people avoid.
 [![Repositories](https://img.shields.io/badge/Repositories-View_All-6B7280?style=for-the-badge&logo=git&logoColor=white)](https://github.com/0ssy?tab=repositories)
 
 </div>
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="Git Koi" />
+</p>
